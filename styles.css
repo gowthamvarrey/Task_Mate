@@ -4,7 +4,7 @@ body {
   }
   header{
     background-color: coral;
-    
+    width:80%;
   }
   .container {
     width: 80%;
